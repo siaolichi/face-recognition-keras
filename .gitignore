@@ -1,0 +1,6 @@
+data*
+data/*
+*.jpg
+*.jpeg
+*.png
+facenet_keras.h5
